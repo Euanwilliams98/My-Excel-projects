@@ -39,12 +39,6 @@ A practical Excel portfolio showing how retail and bike-sales data can be cleane
 
 This project demonstrates skills used in junior data and BI roles: maintaining accurate data, investigating patterns, calculating KPIs and producing reports that non-technical users can understand.
 
-## Next steps
-
-- Add a data dictionary and validation log
-- Introduce Power Query for repeatable preparation
-- Add an executive-summary sheet with headline KPIs
-- Compare formula outputs with PivotTable totals as a quality check
 
 ## Author
 
