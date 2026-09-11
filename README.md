@@ -40,6 +40,18 @@ A practical Excel portfolio showing how retail and bike-sales data can be cleane
 This project demonstrates skills used in junior data and BI roles: maintaining accurate data, investigating patterns, calculating KPIs and producing reports that non-technical users can understand.
 
 
+## Verified findings
+
+- The retail dataset contains **1,000 transactions**, generating **£456,000 in sales** from **2,514 units**.
+- **Electronics** was the highest-selling category at **£156,905**, narrowly ahead of Clothing at **£155,580** and Beauty at **£143,515**.
+- **May 2023** was the strongest month, producing **£53,150 in sales**.
+- Adults generated the most sales at **£189,690**, compared with £143,155 from seniors and £123,155 from young adults.
+- In the 88-record bike-sales sample, the **United States** generated the most revenue at **£133,489** and the most profit at **£60,370**.
+
+## Business recommendation
+
+Prioritise Electronics in stock and promotional planning, while investigating the factors behind May's stronger performance. For bike sales, compare US and Australian customer demand before allocating inventory, as these two markets generated most of the sample's revenue.
+
 ## Author
 
 **Euan Williams** — Junior Business Intelligence & Data Analyst  
