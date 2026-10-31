@@ -1,58 +1,41 @@
-# Excel Retail & Sales Analytics
+# Excel Retail and Sales Analysis
 
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-Analytics-217346?logo=microsoft-excel&logoColor=white) ![Status](https://img.shields.io/badge/status-complete-2E8B57)
+I used Excel to work through two sales datasets: a retail transactions file and a bike-sales sample. The work covers preparing the data, checking it for issues, summarising results and presenting the main patterns with formulas, PivotTables and charts.
 
-A practical Excel portfolio showing how retail and bike-sales data can be cleaned, explored and converted into decision-ready summaries using formulas, PivotTables and charts.
+## Files
 
-## Business questions
-
-- Which products and customer groups drive sales?
-- How does performance vary across categories and periods?
-- Which patterns can be communicated most clearly through PivotTables and charts?
-- How can structured checks improve spreadsheet reporting reliability?
-
-## Workbooks
-
-| File | Focus |
+| Workbook | What it covers |
 |---|---|
-| [Retail Sales workbook](retail_sales_dataset_Master%20-%20Completed.xlsx) | Retail preparation, calculations, summary analysis and reporting |
-| [Bike Sales Pivot Lab](Bike_Sales_Pivot_Lab.xlsx) | Bike-sales segmentation and PivotTable analysis |
-| [Data Technician workbook](Data_Technician_Workbook_Week_1_Excel%202026%20%281%29.docx) | Supporting learning record and methodology |
+| [Retail Sales workbook](retail_sales_dataset_Master%20-%20Completed.xlsx) | Cleaning and exploring retail transactions, calculating sales and building summaries |
+| [Bike Sales Pivot Lab](Bike_Sales_Pivot_Lab.xlsx) | Comparing bike sales across customer and market groups |
+| [Data Technician workbook](Data_Technician_Workbook_Week_1_Excel%202026%20%281%29.docx) | Notes and supporting work from the training project |
 
-## Skills demonstrated
+## What I worked on
 
-- Data cleaning, sorting, filtering and validation
-- PivotTables for segmentation and KPI summaries
-- Formulas including `SUMIF`, `AVERAGEIF`, `VLOOKUP`, `UNIQUE`, `DATE`, `MONTH`, `YEAR` and `SWITCH`
-- Charts designed to make trends and comparisons easy to interpret
-- Structured spreadsheet organisation and business-focused presentation
+- Checked for missing values, inconsistent entries and formatting issues.
+- Sorted and filtered records to explore the data.
+- Used formulas such as \`SUMIF\`, \`AVERAGEIF\`, \`VLOOKUP\`, \`UNIQUE\`, \`DATE\`, \`MONTH\`, \`YEAR\` and \`SWITCH\`.
+- Built PivotTables to compare sales by product, customer group and time period.
+- Used charts to make the main differences easier to see.
 
-## Workflow
+## Findings from the datasets
 
-1. Inspect source data for missing, inconsistent or incorrectly formatted values.
-2. Standardise fields and create useful calculated columns.
-3. Summarise performance with formulas and PivotTables.
-4. Segment results by customer, product and time dimensions.
-5. Present useful findings through clear charts and concise commentary.
+The retail file contains 1,000 transactions, with total sales of £456,000 across 2,514 units. Electronics had the highest sales at £156,905, just ahead of Clothing (£155,580) and Beauty (£143,515). May 2023 was the strongest month, with £53,150 in sales.
 
-## Portfolio value
+Adults accounted for £189,690 in sales, compared with £143,155 for seniors and £123,155 for young adults.
 
-This project demonstrates skills used in junior data and BI roles: maintaining accurate data, investigating patterns, calculating KPIs and producing reports that non-technical users can understand.
+In the 88-record bike-sales sample, the United States recorded the highest revenue (£133,489) and profit (£60,370).
 
+## What the results suggest
 
-## Verified findings
+Electronics is worth looking at when planning stock and promotions, although its lead over Clothing is small. It would also be useful to look more closely at what drove the stronger May result. The bike-sales sample points to the United States as an important market, but the sample is small, so I would want more data before making a wider stock decision.
 
-- The retail dataset contains **1,000 transactions**, generating **£456,000 in sales** from **2,514 units**.
-- **Electronics** was the highest-selling category at **£156,905**, narrowly ahead of Clothing at **£155,580** and Beauty at **£143,515**.
-- **May 2023** was the strongest month, producing **£53,150 in sales**.
-- Adults generated the most sales at **£189,690**, compared with £143,155 from seniors and £123,155 from young adults.
-- In the 88-record bike-sales sample, the **United States** generated the most revenue at **£133,489** and the most profit at **£60,370**.
+## Skills used
 
-## Business recommendation
-
-Prioritise Electronics in stock and promotional planning, while investigating the factors behind May's stronger performance. For bike sales, compare US and Australian customer demand before allocating inventory, as these two markets generated most of the sample's revenue.
+Excel, data cleaning, data validation, formulas, PivotTables, charts, sales analysis and reporting.
 
 ## Author
 
-**Euan Williams** — Junior Business Intelligence & Data Analyst  
-[View my full portfolio](https://github.com/Euanwilliams98)
+Euan Williams
+
+[View my other projects](https://github.com/Euanwilliams98)
