@@ -1,38 +1,38 @@
 # Excel Retail and Sales Analysis
 
-I used Excel to work through two sales datasets: a retail transactions file and a bike-sales sample. The work covers preparing the data, checking it for issues, summarising results and presenting the main patterns with formulas, PivotTables and charts.
+I used Excel to explore two sales datasets: a retail transactions file and a bike sales sample. I practised checking the data, using formulas, building PivotTables and creating charts to make the results easier to understand.
 
 ## Files
 
 | Workbook | What it covers |
 |---|---|
-| [Retail Sales workbook](retail_sales_dataset_Master%20-%20Completed.xlsx) | Cleaning and exploring retail transactions, calculating sales and building summaries |
+| [Retail Sales workbook](retail_sales_dataset_Master%20-%20Completed.xlsx) | Exploring retail transactions and summarising sales |
 | [Bike Sales Pivot Lab](Bike_Sales_Pivot_Lab.xlsx) | Comparing bike sales across customer and market groups |
-| [Data Technician workbook](Data_Technician_Workbook_Week_1_Excel%202026%20%281%29.docx) | Notes and supporting work from the training project |
+| [Data Technician workbook](Data_Technician_Workbook_Week_1_Excel%202026%20%281%29.docx) | Supporting work from the training project |
 
-## What I worked on
+## What I did
 
-- Checked for missing values, inconsistent entries and formatting issues.
-- Sorted and filtered records to explore the data.
-- Used formulas such as \`SUMIF\`, \`AVERAGEIF\`, \`VLOOKUP\`, \`UNIQUE\`, \`DATE\`, \`MONTH\`, \`YEAR\` and \`SWITCH\`.
-- Built PivotTables to compare sales by product, customer group and time period.
-- Used charts to make the main differences easier to see.
+- Checked the data for missing values, inconsistent entries and formatting issues.
+- Used sorting and filters to look through the records.
+- Practised formulas including `SUMIF`, `AVERAGEIF`, `VLOOKUP`, `UNIQUE`, `DATE`, `MONTH`, `YEAR` and `SWITCH`.
+- Created PivotTables to compare sales by product, customer group and month.
+- Added charts to show some of the main results.
 
-## Findings from the datasets
+## A few results
 
-The retail file contains 1,000 transactions, with total sales of £456,000 across 2,514 units. Electronics had the highest sales at £156,905, just ahead of Clothing (£155,580) and Beauty (£143,515). May 2023 was the strongest month, with £53,150 in sales.
+The retail dataset contains 1,000 transactions, with total sales of £456,000 across 2,514 units. Electronics had the highest sales (£156,905), followed closely by Clothing (£155,580) and Beauty (£143,515). May 2023 was the strongest month, with £53,150 in sales.
 
 Adults accounted for £189,690 in sales, compared with £143,155 for seniors and £123,155 for young adults.
 
-In the 88-record bike-sales sample, the United States recorded the highest revenue (£133,489) and profit (£60,370).
+In the 88-record bike sales sample, the United States had the highest revenue (£133,489) and profit (£60,370).
 
-## What the results suggest
+## What I learned
 
-Electronics is worth looking at when planning stock and promotions, although its lead over Clothing is small. It would also be useful to look more closely at what drove the stronger May result. The bike-sales sample points to the United States as an important market, but the sample is small, so I would want more data before making a wider stock decision.
+This work helped me get more practice using Excel to organise data and compare results. I also learned how PivotTables and charts can make it easier to spot differences between products, customer groups and months.
 
 ## Skills used
 
-Excel, data cleaning, data validation, formulas, PivotTables, charts, sales analysis and reporting.
+Excel, formulas, sorting and filtering, PivotTables, charts, data checks and basic sales analysis.
 
 ## Author
 
